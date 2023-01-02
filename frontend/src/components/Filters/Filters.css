@@ -1,0 +1,22 @@
+.filters {
+    background-color: #0f1111;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: 1px;
+    margin-left: 0px;
+    height: 86vh;
+  }
+  
+  .filters > span {
+   
+    padding-bottom: 20px;
+  }
+  
+.title {
+  margin-top: 80px;
+    font-size: 20px;
+    padding: 0 10px;
+  }

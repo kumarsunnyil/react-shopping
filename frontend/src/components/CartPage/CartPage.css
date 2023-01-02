@@ -1,0 +1,29 @@
+.cart-home {
+  display: flex;
+  padding: 0px;
+  padding-top: 65px;
+}
+.cart-product-container {
+  width: 80%;
+  height: 1000px;
+}
+
+.cart-home-sidebar {
+  background-color: #0f1111;
+  color: white;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  margin: 1px;
+  margin-left: 0px;
+  height: 86vh;
+}
+.cart-summary {
+  width: 30%;
+}
+
+.cart-page-form-select {
+    width: 18%;
+
+}

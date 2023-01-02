@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+.mainback {
+    min-height: 80vh;
+    display: flex;
+    padding: 10px;
+}
+
+.page {
+    width: 100%;
+}
+.heading {
+    font-size: 60px;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 5px 10px;
+}
+
+@media only screen and (min-width: 1200px) {
+    .heading {
+      font-size: 30px;
+      display: flex;
+      justify-content: center;
+    }
+  }
+  
